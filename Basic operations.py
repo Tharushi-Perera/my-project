@@ -19,5 +19,4 @@ def square_root(a):
         return "Error! Cannot compute square root of a negative number."
     return math.sqrt(a)
 
-def power(a, b):
-    return a ** b
+
